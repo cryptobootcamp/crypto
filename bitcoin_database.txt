@@ -1,0 +1,33 @@
+CREATE TABLE bitcoin_reddit (
+	
+	normalised_date varchar (50),
+	score float,
+	neg float,
+	neu float,
+	pos float,
+	compound float,
+	rolling float
+	
+);
+
+select * from bitcoin_reddit limit 100
+
+CREATE TABLE bitcoin_agg (
+
+	normalised_date varchar (50),
+	timestamp float,
+	high float,
+	low float,
+	volume float,
+	weightedPrice float,
+	timestampINT float
+	
+);
+
+select * from bitcoin_agg limit 100
+
+SELECT ba.normalised_date, ba.high, ba.low, r.compound
+FROM bitcoin_agg AS ba
+INNER JOIN bitcoin_reddit AS r
+ON (ba.normalised_date = r.normalised_date)
+ORDER BY ba.normalised_date;
