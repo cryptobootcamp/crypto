@@ -13,8 +13,10 @@
 ### Database: 
 - Our data will be stored in PostgreSQL.
 
-###Tableau Visualization of Bitcoin Ave. Sentiment over Time 
+### Tableau Visualization of Bitcoin Ave. Sentiment over Time 
+
 ![Sentiment Scores](https://raw.githubusercontent.com/cryptobootcamp/crypto/Jafaeth_dev/Bitcoin%20Ave.%20Sentiment%20Score%20vs.%20Time.png)
+
 #  Cryptocurrencies
 
 ## Overview
