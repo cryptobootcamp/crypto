@@ -13,8 +13,21 @@
 ### Database: 
 - Our data will be stored in PostgreSQL.
 
-### Presentation
-https://docs.google.com/presentation/d/1GuzDau3QD-z83MJqXGNej6YxMW8lad2tzsT9cReLBE8
+### Tableau Dashboard 
+[Link to Tableau Cryptocurrency Dashboard](https://public.tableau.com/profile/jafaeth#!/vizhome/Cryptocurrency_16087565061470/Sheet1?publish=yes)
+
+### Tableau Visualization of Bitcoin Ave. Sentiment over Time 
+
+![Sentiment Scores](https://raw.githubusercontent.com/cryptobootcamp/crypto/Jafaeth_dev/Bitcoin%20Ave.%20Sentiment%20Score%20vs.%20Time.png)
+
+#  Cryptocurrencies
+
+## Overview
+Our topic is about cryptocurrencies specifically starting with bitcoin. We decided to pick it as it is relevant to the modern world, has a lot of data around it, and is a complex topic to work with.
+
+Our source of data for bitcoin was found on Kaggle at: https://www.kaggle.com/mczielinski/bitcoin-historical-data. The dataset contains minute intervals of bitcoin data including prices and volume of exchanges.
+
+During the project our team will communicate through a slack group and through use of the git issues board.
 
 ## Results
 
