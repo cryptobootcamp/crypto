@@ -14,7 +14,7 @@
 - Our data will be stored in PostgreSQL.
 
 ### Tableau Dashboard 
-[Link to Tableau Cryptocurrency Dashboard](https://public.tableau.com/profile/jafaeth#!/vizhome/Cryptocurrency_16087565061470/Sheet1?publish=yes)
+[Link to Tableau Cryptocurrency Dashboard](https://public.tableau.com/profile/jafaeth#!/vizhome/Cryptocurrency_16087565061470/Dashboard1)
 
 ### Tableau Visualization of Bitcoin Ave. Sentiment over Time 
 
