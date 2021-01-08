@@ -20,6 +20,5 @@
 
 ![Sentiment Scores](https://raw.githubusercontent.com/cryptobootcamp/crypto/Jafaeth_dev/Bitcoin%20Ave.%20Sentiment%20Score%20vs.%20Time.png)
 
-## Results
-
 ## Summary
+[Google Slides](https://docs.google.com/presentation/d/1GuzDau3QD-z83MJqXGNej6YxMW8lad2tzsT9cReLBE8)
